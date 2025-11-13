@@ -14,9 +14,12 @@
 ## Project Structure
 
 - `***.ipynb` - Jupyter notebook(s) with the analysis
+    - `data_preprocessing.ipynb` - Data preprocessing notebook
+    - `Boosting.ipynb` - Notebook for the Boosting algorithm
 - `spotify-songs.xlsx` - Spotify songs data
 - `requirements.txt` - Python dependencies
 - `instructions.pdf` - Instructions for the project
+- `test_models` - Folder with the test models (feel free to ignore it)
 
 ## Setup
 
