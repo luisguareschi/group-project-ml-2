@@ -17,6 +17,7 @@
     - `data_preprocessing.ipynb` - Data preprocessing notebook
     - `Boosting.ipynb` - Notebook for the Boosting algorithm
 - `spotify-songs.xlsx` - Spotify songs data
+- `spotify-songs-preprocessed.csv` - Preprocessed Spotify songs data
 - `requirements.txt` - Python dependencies
 - `instructions.pdf` - Instructions for the project
 - `test_models` - Folder with the test models (feel free to ignore it)
