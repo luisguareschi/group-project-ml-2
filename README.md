@@ -21,6 +21,8 @@
 - `requirements.txt` - Python dependencies
 - `instructions.pdf` - Instructions for the project
 - `test_models` - Folder with the test models (feel free to ignore it)
+- `summary-report.pdf` - Summary report of the project
+- `presentation.pdf` - Presentation of the project
 
 ## Setup
 
